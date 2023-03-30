@@ -12,12 +12,12 @@ public class SignInStepDefinitions {
 
     @Given("The user is on the Sign in page")
     public void i_am_on_sign_in_page() {
-        Driver.getDriver().get(ConfigReader.getProperty("homepage"));
+
+
     }
     @When("The user navigates to the sign in page")
     public void i_navigates_to_the_sign_in_page() {
 
-        Driver.getDriver().get(ConfigReader.getProperty("homepage"));
 
     }
     @Then("the user should be greeted with a welcome message")

@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="duobank-cucumber-bdd-framework" />
+        <module name="duobank-cucumber-bdd-framework-teamC" />
       </profile>
     </annotationProcessing>
   </component>
